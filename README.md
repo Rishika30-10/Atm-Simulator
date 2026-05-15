@@ -56,4 +56,4 @@ No installs needed — standard library only.
 
 ---
 
-> Made by [Your Name](https://github.com/yourusername)
+> Made by [Rishika](https://github.com/Rishika30-10)
